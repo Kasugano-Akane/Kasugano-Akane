@@ -1,6 +1,5 @@
 - Hi, I’m @Kasugano-Akane
-- I’m interested in python, html and java 
-- I’m currently learning python and html
+- I’m currently learning python, html, css, and javascript 
 - Thank you very much
 <!---
 Kasugano-Akane/Kasugano-Akane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
